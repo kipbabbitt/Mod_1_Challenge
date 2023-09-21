@@ -1,6 +1,6 @@
 # Horiseon-Code-Refactor
 
-Horiseon Code refractor is a refactor of an exsisting webpage for a marketing agency. This project refactors the existing codebase and updates it to follow semanntic structures. 
+Horiseon Code refractor is a refactor of an exsisting webpage for a marketing agency. This project refactors the existing codebase and updates it to follow semanntic structures and alt identifiers. 
 
 ## Tech Stack
 
